@@ -3,6 +3,6 @@
 
 For the Markdown documentation visit [Daring Fireball][md].
 
-Visit [fox21.at](http://fox21.at).
+Visit <http://fox21.at>.
 
 [md]: http://daringfireball.net/projects/markdown/ "Markdown"
