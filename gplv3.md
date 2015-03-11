@@ -383,9 +383,9 @@ patent licenses granted under the third paragraph of section 11).
 However, if you cease all violation of this License, then your license from a
 particular copyright holder is reinstated
 
-  - a. provisionally, unless and until the copyright holder explicitly and
+  - a) provisionally, unless and until the copyright holder explicitly and
     finally terminates your license, and
-  - b. permanently, if the copyright holder fails to notify you of the
+  - b) permanently, if the copyright holder fails to notify you of the
     violation by some reasonable means prior to 60 days after the cessation.
 
 Moreover, your license from a particular copyright holder is reinstated
@@ -494,9 +494,9 @@ conveying the work, and under which the third party grants, to any of the
 parties who would receive the covered work from you, a discriminatory patent
 license
 
-  - a. in connection with copies of the covered work conveyed by you (or copies
+  - a) in connection with copies of the covered work conveyed by you (or copies
     made from those copies), or
-  - b. primarily for and in connection with specific products or compilations
+  - b) primarily for and in connection with specific products or compilations
     that contain the covered work, unless you entered into that arrangement, or
     that patent license was granted, prior to 28 March 2007.
 
