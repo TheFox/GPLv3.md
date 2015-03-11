@@ -338,19 +338,19 @@ Notwithstanding any other provision of this License, for material you add to a
 covered work, you may (if authorized by the copyright holders of that material)
 supplement the terms of this License with terms:
 
-  - a. Disclaiming warranty or limiting liability differently from the terms of
+  - a) Disclaiming warranty or limiting liability differently from the terms of
     sections 15 and 16 of this License; or
-  - b. Requiring preservation of specified reasonable legal notices or author
+  - b) Requiring preservation of specified reasonable legal notices or author
     attributions in that material or in the Appropriate Legal Notices displayed
     by works containing it; or
-  - c. Prohibiting misrepresentation of the origin of that material, or
+  - c) Prohibiting misrepresentation of the origin of that material, or
     requiring that modified versions of such material be marked in reasonable
     ways as different from the original version; or
-  - d. Limiting the use for publicity purposes of names of licensors or authors
+  - d) Limiting the use for publicity purposes of names of licensors or authors
     of the material; or
-  - e. Declining to grant rights under trademark law for use of some trade
+  - e) Declining to grant rights under trademark law for use of some trade
     names, trademarks, or service marks; or
-  - f. Requiring indemnification of licensors and authors of that material by
+  - f) Requiring indemnification of licensors and authors of that material by
     anyone who conveys the material (or modified versions of it) with
     contractual assumptions of liability to the recipient, for any liability
     that these contractual assumptions directly impose on those licensors and
